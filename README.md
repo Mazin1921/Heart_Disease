@@ -2,7 +2,7 @@
 1. problem statement
 2. data
 3. evaluation 
-4. features
+4. featuress
 
 ## 👩‍💗⚕ Predicting heart disease using machine learning
 
